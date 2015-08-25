@@ -1,0 +1,36 @@
+{
+  "name": "is-public-domain-cli",
+  "version": "1.0.0",
+  "description": "Check if a domain is public",
+  "preferGlobal": true,
+  "bin": {
+    "domain": "cli.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "domain",
+    "public",
+    "url",
+    "uri",
+    "is",
+    "check",
+    "cli"
+  ],
+  "author": "Welkson Ramos",
+  "license": "MIT",
+  "dependencies": {
+    "is-public-domain": "^1.0.0",
+    "meow": "^3.3.0"
+  },
+  "main": "cli.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/welksonramos/is-public-domain-cli.git"
+  },
+  "bugs": {
+    "url": "https://github.com/welksonramos/is-public-domain-cli/issues"
+  },
+  "homepage": "https://github.com/welksonramos/is-public-domain-cli#readme"
+}
