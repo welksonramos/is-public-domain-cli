@@ -4,7 +4,7 @@
 # Install
 
 ```bash
-$npm install -global is-public-domain-cli
+$npm install --global is-public-domain-cli
 ```
 
 # Usage
