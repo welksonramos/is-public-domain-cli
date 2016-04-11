@@ -1,6 +1,6 @@
 {
   "name": "is-public-domain-cli",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Check if a domain is public",
   "preferGlobal": true,
   "bin": {
@@ -22,7 +22,7 @@
   "license": "MIT",
   "dependencies": {
     "is-public-domain": "^1.0.0",
-    "meow": "^3.3.0"
+    "meow": "^3.7.0"
   },
   "main": "cli.js",
   "repository": {
