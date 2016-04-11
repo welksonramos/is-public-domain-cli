@@ -22,7 +22,7 @@ domain sindresorhus.com
 ``` 
 
 # Related
-- is-public-domain - API this module created by [Sindre Sorhus](https://github.com/sindresorhus/is-public-domain)
+- [is-public-domain](https://github.com/sindresorhus/is-public-domain) - API this module created by [Sindre Sorhus](https://sindresorhus.com/)
 
 # License
 MIT
