@@ -1,4 +1,4 @@
-# is-public-domain-cli
+# is-public-domain-cli [![npm version](https://img.shields.io/npm/v/is-public-domain-cli.svg)](https://www.npmjs.com/package/is-public-domain-cli)
 >  Check if a domain is public
 
 # Install
@@ -25,4 +25,4 @@ domain sindresorhus.com
 - [is-public-domain](https://github.com/sindresorhus/is-public-domain) - API this module created by [Sindre Sorhus](https://sindresorhus.com/)
 
 # License
-MIT
+&copy; MIT License
